@@ -1,0 +1,3 @@
+Variable: randomValue Value: 23.5 Type: float
+Variable: globalVariable Value: 15.67 Type: double
+Variable: awesomeThing_Here Value: "kittens" Type: string

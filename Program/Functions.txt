@@ -1,0 +1,52 @@
+Name: addIntegers
+Type: Regular, Non-recursive
+Return Type: int
+Parameters: int first, int second
+Local Variables:
+	None
+Control Structures:
+	None
+
+Name: divideIntegers
+Type: Regular, Non-recursive
+Return Type: float
+Parameters: int first, int second
+Local Variables:
+	None
+Control Structures:
+	<if, 29>
+
+Name: exampleRecursiveFunction
+Type: Regular, Recursive
+Return Type: void
+Parameters: int parameter
+Local Variables:
+	None
+Control Structures:
+	<if, 38>
+
+Name: functionWithLocalsHere
+Type: Regular, Non-recursive
+Return Type: void
+Parameters: None
+Local Variables:
+	int myFirstLocal = 0
+	string mySecondLocal = "meow meow meow meow"
+	float myThirdLocal = 0.5
+Control Structures:
+	None
+
+Name: main
+Type: Main, Non-recursive
+Return Type: int
+Parameters: None
+Local Variables:
+	int myFirstVariable = 17
+	int mySecondVariable = 45
+	int myThirdVariable = 3
+	string myString = ""
+	float myFloat = null
+Control Structures:
+	<for, 61>
+	<if...else, 66>
+
